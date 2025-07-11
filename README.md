@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Haotian!
 
-- currently studying CE🧑‍💻 @ University of Michigan 
-- working as a Research Assistant for Summer 2025
-- building FanShare, a web3 startup 
+- currently studying ce🧑‍💻 @ university of michigan
+- working as a research intern building python pipelines 
+- building fanshare, a music web3 startup 
 - reach me at howtian@umich.edu ✉️
 
 ## Languages 
