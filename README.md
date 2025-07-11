@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a Computer Engineering student at the University of Michigan! 
 
 <!--
 **haotianli24/haotianli24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
