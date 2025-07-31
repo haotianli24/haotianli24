@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Haotian!
 
 - currently studying ce🧑‍💻 @ university of michigan
-- working as a research intern building python pipelines 
+- working as a research intern for medical ai
 - building fanshare, a music web3 startup 
 - reach me at howtian@umich.edu ✉️
 
