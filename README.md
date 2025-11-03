@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Haotian!
 
 - currently studying ce🧑‍💻 @ university of michigan
-- working as a research intern for medical ai
-- building fanshare, a music web3 startup 
+- 3x Hackathon Winner (CalHacks [3000+ attendees], Solana, CapitalOne) 
+- working as a software developer intern for medical ai
+- building Project Ares, a HyperLiquid digital asset project
 - reach me at howtian@umich.edu ✉️
 
 ## Languages 
