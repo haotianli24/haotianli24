@@ -2,6 +2,7 @@
 
 - currently studying ce🧑‍💻 @ university of michigan
 - 3x Hackathon Winner (CalHacks [3000+ attendees], Solana, CapitalOne)
+- Interested in Product Engineering, Full-stack, and Web3
 - reach me at howtian@umich.edu ✉️
 
 ## Languages 
